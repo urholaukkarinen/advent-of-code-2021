@@ -4,7 +4,7 @@ I wanted to challenge myself this year and complete the Advent of Code by using 
 
 ## Solutions
 1. [Batch](1/main.bat)
-2. ?
+2. [R](2/main.r)
 3. ?
 4. ?
 5. ?
