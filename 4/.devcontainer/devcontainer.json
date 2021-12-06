@@ -1,0 +1,8 @@
+{
+  "name": "Haskell",
+  "image": "haskell:8",
+  "settings": {},
+  "extensions": [
+    "haskell.haskell"
+  ],
+}

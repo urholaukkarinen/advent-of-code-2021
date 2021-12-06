@@ -1,0 +1,8 @@
+{
+    "name": "Clojure",
+    "image": "clojure:openjdk-17-slim-bullseye",
+    "settings": {},
+    "extensions": [
+        "avli.clojure"
+    ],
+}
