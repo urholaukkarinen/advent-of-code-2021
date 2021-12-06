@@ -5,7 +5,7 @@ I wanted to challenge myself this year and complete the Advent of Code by using 
 ## Solutions
 1. [Batch](1/main.bat)
 2. [R](2/main.r)
-3. ?
+3. [Clojure](3/main.clj)
 4. ?
 5. ?
 6. ?
