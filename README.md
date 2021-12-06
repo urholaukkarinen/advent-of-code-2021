@@ -6,7 +6,7 @@ I wanted to challenge myself this year and complete the Advent of Code by using 
 1. [Batch](1/main.bat)
 2. [R](2/main.r)
 3. [Clojure](3/main.clj)
-4. ?
+4. [Haskell](4/main.hs)
 5. ?
 6. ?
 7. ?
