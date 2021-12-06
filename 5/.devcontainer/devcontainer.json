@@ -1,0 +1,8 @@
+{
+  "name": "Tcl",
+  "image": "esolang/tcl:latest",
+  "settings": {},
+  "extensions": [
+    "rashwell.tcl"
+  ],
+}
