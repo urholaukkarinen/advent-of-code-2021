@@ -1,0 +1,8 @@
+{
+  "name": "F#",
+  "image": "mcr.microsoft.com/dotnet/sdk:6.0",
+  "settings": {},
+  "extensions": [
+    "georgewfraser.fsharp-language-server"
+  ],
+}
