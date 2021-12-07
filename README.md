@@ -6,7 +6,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 Simply open any of the solution folders in VS Code with [Remote-Containers: Open Folder in Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
 
 ## Solutions
-1. [Batch](1/main.bat)
+1. [Swift](1/main.swift)
 2. [R](2/main.r)
 3. [Clojure](3/main.clj)
 4. [Haskell](4/main.hs)
