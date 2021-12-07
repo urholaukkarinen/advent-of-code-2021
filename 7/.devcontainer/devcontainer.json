@@ -1,0 +1,8 @@
+{
+  "name": "Ballerina",
+  "image": "ballerina/ballerina",
+  "settings": {},
+  "extensions": [
+    "wso2.ballerina"
+  ],
+}
