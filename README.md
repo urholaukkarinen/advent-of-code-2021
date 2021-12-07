@@ -8,7 +8,7 @@ I wanted to challenge myself this year and complete the Advent of Code by using 
 3. [Clojure](3/main.clj)
 4. [Haskell](4/main.hs)
 5. [Tcl](5/main.tcl)
-6. [F#](6/main.fs)
+6. [F#](6/main.fsx)
 7. ?
 8. ?
 9. ?
