@@ -1,0 +1,8 @@
+{
+  "name": "Elixir",
+  "image": "elixir:1.13.0",
+  "settings": {},
+  "extensions": [
+    "mjmcloug.vscode-elixir"
+  ],
+}
