@@ -14,7 +14,7 @@ Simply open any of the solution folders in VS Code with [Remote-Containers: Open
 6. [F#](6/main.fsx)
 7. [Ballerina](7/main.bal)
 8. [Elixir](8/main.exs)
-9. ?
+9. [Perl](9/main.pl)
 10. ?
 11. ?
 12. ?
