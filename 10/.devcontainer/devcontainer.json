@@ -1,0 +1,8 @@
+{
+  "name": "Php",
+  "image": "php:8.1.0",
+  "settings": {},
+  "extensions": [
+    "felixfbecker.php-pack"
+  ],
+}

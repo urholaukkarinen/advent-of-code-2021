@@ -15,7 +15,7 @@ Simply open any of the solution folders in VS Code with [Remote-Containers: Open
 7. [Ballerina](7/main.bal)
 8. [Elixir](8/main.exs)
 9. [Perl](9/main.pl)
-10. ?
+10. [PHP](10/main.php)
 11. ?
 12. ?
 13. ?
