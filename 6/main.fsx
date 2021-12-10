@@ -1,8 +1,7 @@
 ﻿/// After generating fish generations for the first few dozen days
 /// I noticed that same subsequences repeat over and over again
 /// If F(n) gives the number of fish after n days,
-/// then F(n) = 1 if n <= 8
-/// and  F(n) = F(n-8) + F(n-6) when n > 8
+/// F(n) = F(n-9) + F(n-7)
 
 open System.IO
 
