@@ -1,0 +1,8 @@
+{
+  "name": "V",
+  "image": "thevlang/vlang:latest",
+  "settings": {},
+  "extensions": [
+    "vlanguage.vscode-vlang"
+  ],
+}
