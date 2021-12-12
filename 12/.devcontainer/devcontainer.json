@@ -1,0 +1,8 @@
+{
+  "name": "D",
+  "image": "dlang2/dmd-ubuntu:2.096.1",
+  "settings": {},
+  "extensions": [
+    "webfreak.code-d"
+  ],
+}
