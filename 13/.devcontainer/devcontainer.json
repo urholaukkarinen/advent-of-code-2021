@@ -1,0 +1,8 @@
+{
+  "name": "Haxe",
+  "image": "haxe:4.2.4-bullseye",
+  "settings": {},
+  "extensions": [
+    "nadako.vshaxe"
+  ],
+}
