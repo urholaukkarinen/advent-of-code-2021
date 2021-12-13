@@ -1,9 +1,6 @@
-# Advent of Code 2021 in 25 different languages
+# Advent of Code 2021 in 25 languages
 
-I wanted to challenge myself this year and complete the Advent of Code by using a different programming language for each day.
-Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/remote/containers) and [tasks.json](https://code.visualstudio.com/docs/editor/tasks) for easy set up and execution.
-
-Simply open any of the solution folders in VS Code with [Remote-Containers: Open Folder in Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
+Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/remote/containers) and [tasks.json](https://code.visualstudio.com/docs/editor/tasks) for easy set up and execution with Docker. Simply open any of the solution folders in VS Code with [Remote-Containers: Open Folder in Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack).
 
 ## Solutions
 1. [Swift](1/main.swift)
