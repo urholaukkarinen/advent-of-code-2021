@@ -1,0 +1,8 @@
+{
+  "name": "Kotlin",
+  "image": "zenika/kotlin:1.4.20-jdk8",
+  "settings": {},
+  "extensions": [
+    "fwcd.kotlin"
+  ],
+}
