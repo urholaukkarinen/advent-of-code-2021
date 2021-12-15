@@ -1,0 +1,8 @@
+{
+  "name": "Python",
+  "image": "python:3.10",
+  "settings": {},
+  "extensions": [
+    "ms-python.python"
+  ],
+}
