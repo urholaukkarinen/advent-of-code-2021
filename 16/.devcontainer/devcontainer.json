@@ -1,0 +1,8 @@
+{
+  "name": "Crystal",
+  "image": "crystallang/crystal:1.2.2",
+  "settings": {},
+  "extensions": [
+    "crystal-lang-tools.crystal-lang"
+  ],
+}

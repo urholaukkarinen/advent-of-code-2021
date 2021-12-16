@@ -18,7 +18,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 13. [Haxe](13/main.hx)
 14. [Kotlin](14/main.kt)
 15. [Python](15/main.py)
-16. ?
+16. [Crystal](16/main.cr)
 17. ?
 18. ?
 19. ?
