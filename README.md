@@ -19,7 +19,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 14. [Kotlin](14/main.kt)
 15. [Python](15/main.py)
 16. [Crystal](16/main.cr)
-17. ?
+17. [Zig](17/main.zig)
 18. ?
 19. ?
 20. ?

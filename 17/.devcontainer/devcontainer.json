@@ -1,0 +1,10 @@
+{
+  "name": "Zig",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [
+    "tiehuis.zig"
+  ],
+}
