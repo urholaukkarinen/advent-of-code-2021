@@ -20,7 +20,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 15. [Python](15/main.py)
 16. [Crystal](16/main.cr)
 17. [Zig](17/main.zig)
-18. ?
+18. [Rust](18/main.rs)
 19. ?
 20. ?
 21. ?

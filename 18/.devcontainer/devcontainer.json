@@ -1,0 +1,8 @@
+{
+  "name": "Rust",
+  "image": "rust",
+  "settings": {},
+  "extensions": [
+    "rust-lang.rust"
+  ],
+}
