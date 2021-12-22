@@ -1,0 +1,8 @@
+{
+  "name": "Java",
+  "image": "openjdk:19-slim",
+  "settings": {},
+  "extensions": [
+    "redhat.java"
+  ],
+}

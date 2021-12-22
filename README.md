@@ -21,7 +21,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 16. [Crystal](16/main.cr)
 17. [Zig](17/main.zig)
 18. [Rust](18/main.rs)
-19. ?
+19. [Java](19/Main.java)
 20. ?
 21. ?
 22. ?
