@@ -1,0 +1,8 @@
+{
+  "name": "Go",
+  "image": "golang",
+  "settings": {},
+  "extensions": [
+    "golang.go"
+  ],
+}
