@@ -1,0 +1,8 @@
+{
+  "name": "Ruby",
+  "image": "ruby",
+  "settings": {},
+  "extensions": [
+    "rebornix.ruby"
+  ],
+}
