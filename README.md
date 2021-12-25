@@ -24,7 +24,7 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 19. [Java](19/Main.java)
 20. [Go](20/main.go)
 21. [Ruby](21/main.rb)
-22. ?
+22. [Nim](22/main.nim)
 23. ?
 24. ?
 25. ?
