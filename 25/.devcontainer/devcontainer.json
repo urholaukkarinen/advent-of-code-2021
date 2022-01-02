@@ -1,0 +1,9 @@
+{
+  "name": "Typescript",
+  "image": "denoland/deno",
+  "settings": {},
+  "extensions": [
+    "ms-vscode.vscode-typescript-next",
+    "denoland.vscode-deno"
+  ],
+}

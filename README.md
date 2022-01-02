@@ -27,4 +27,4 @@ Each solution has a VS Code [devcontainer](https://code.visualstudio.com/docs/re
 22. [Nim](22/main.nim)
 23. [C#](23/Program.cs)
 24. [C](24/main.c)
-25. ?
+25. [Typescript](25/main.ts)
