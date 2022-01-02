@@ -1,0 +1,8 @@
+{
+  "name": "C",
+  "image": "gcc",
+  "settings": {},
+  "extensions": [
+    "ms-vscode.cpptools"
+  ],
+}
